@@ -1,0 +1,19 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "ejercicio prueba de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabyValladares/NodeHolaMundo.git"
+  },
+  "author": "Gaby Valladares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabyValladares/NodeHolaMundo/issues"
+  },
+  "homepage": "https://github.com/GabyValladares/NodeHolaMundo#readme"
+}
